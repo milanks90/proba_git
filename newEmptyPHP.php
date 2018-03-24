@@ -6,6 +6,8 @@
  * and open the template in the editor.
  */
 
-test
+if(1){
+    echo "1";
+}
 
 ?>
