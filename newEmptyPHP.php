@@ -7,7 +7,9 @@
  */
 
 if(1){
-    echo "1";
+    echo "v1.01";
+    echo "TEST";
+    echo "Ovo je test!";
 }
 
 ?>
