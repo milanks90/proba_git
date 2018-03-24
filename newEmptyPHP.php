@@ -8,7 +8,7 @@
 
 if(1){
     echo "v1.01";
-    echo "TEST";
+    echo "TEST 1";
     echo "Ovo je test!";
 }
 
